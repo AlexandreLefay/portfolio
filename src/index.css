@@ -1,3 +1,10 @@
-* {
-    background-color: black;
+body {
+    background-color: #000000;
+}
+
+@font-face {
+    font-family: "Bigilla";
+    src: local("Bigilla"),
+    url("fonts/bigilla/Bigilla.otf") format("opentype");
+    font-weight: normal;
 }
